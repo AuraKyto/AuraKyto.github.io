@@ -41,3 +41,10 @@ iframe {
 	display: block;
 	margin: auto;
 }
+
+li {
+  color: grey; /* bullet color */
+}
+li span {
+  color: grey; /* text color */
+}
